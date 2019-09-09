@@ -1,0 +1,1 @@
+c:\users\nnoercane\documents\visual studio 2015\Projects\DependencyInjection\DependencyInjection\obj\Release\DependencyInjection.csprojResolveAssemblyReference.cache
